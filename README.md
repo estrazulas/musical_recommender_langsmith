@@ -1,4 +1,4 @@
-> **Note**: This project was built during a postgraduate class in Software Engineering with Applied AI at POSIA.
+> **Note**: This project was built during a postgraduate class in Software Engineering with Applied AI at UNIPDS.
 
 # Song Recommender with LangGraph Memory
 
