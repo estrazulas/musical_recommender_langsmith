@@ -1,4 +1,7 @@
+> **Note**: This project was built during a postgraduate class in Software Engineering with Applied AI at POSIA.
+
 # Song Recommender with LangGraph Memory
+
 
 Demonstration of **LangGraph memory persistence** using conversational AI to recommend music based on user preferences. This project showcases how to build stateful, multi-turn conversations where the AI remembers context across messages.
 
